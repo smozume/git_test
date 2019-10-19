@@ -18,4 +18,3 @@ ydl = youtube_dl.YoutubeDL(ydl_opts)
 info_dict = ydl.extract_info("https://www.youtube.com/watch?v=9AnGVYkgwzI", download=True)
 追加」１
 追加２
-あああああああああああああああ
